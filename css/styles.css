@@ -935,6 +935,22 @@ Footer
   margin-bottom: 2rem;
 }
 
+.footer .uno {
+  color: var(--clr-primary-6);
+  /* text-shadow: 1px 0px 0 var(--clr-white); */
+  font-weight: bold;
+}
+.footer .dos {
+  color: blue;
+  /* text-shadow: 1px 0px 0 var(--clr-white); */
+  font-weight: bold;
+}
+.footer .tres {
+  color: black;
+  /* text-shadow: 1px 0px 0 var(--clr-white); */
+  font-weight: bold;
+}
+
 /* .footer .social-icon {
   color: var(--clr-white);
 } */
