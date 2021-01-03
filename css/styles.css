@@ -855,7 +855,7 @@ Blog
   height: 100%;
   border-radius: var(--radius);
   /* for i-phone */
-  -webkit-transform: translate(0, 0, 0);
+  /* -webkit-transform: translate(0, 0, 0); */
   visibility: visible;
 }
 .card-front {
